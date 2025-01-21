@@ -94,7 +94,7 @@
 - **Trust:** Enhances security and credibility through blockchain-backed AI solutions.
 - **Scalability:** Ensures the platform can handle a large user base with diverse needs.
 
-With these AI-powered features, **SkillNet** will become a cutting-edge platform that empowers users to achieve their career, educational, and organizational goals seamlessly and efficiently.
+
 
 
 
@@ -121,7 +121,7 @@ We are excited to have you contribute to this project! Follow the steps below to
 ### 3. Create a new branch
 
   ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feature/Issue-title
   ```
 
 ### 4. Set Up the Project
