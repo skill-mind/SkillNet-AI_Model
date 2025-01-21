@@ -139,14 +139,9 @@ We are excited to have you contribute to this project! Follow the steps below to
    pip install -r requirements.txt
   ```
 
+
+
 ### 5. Make Your Changes
-- Create a new branch for your feature or bug fix:
-
-  ```bash
-     git checkout -b feature/Issue title
-  ```
-
-### 6. Make Your Changes
 - Make your changes and commit them:
 
   ```bash
@@ -154,14 +149,14 @@ We are excited to have you contribute to this project! Follow the steps below to
     git commit -m "Issue title"
   ```
 
-### 7. Push Your Changes
+### 6. Push Your Changes
 - Push your branch to your forked repository:
 
   ```bash
     git push origin feature/Issue title
   ```
 
-###  8. Open a Pull Request
+###  7. Open a Pull Request
 - Go to the original repository on GitHub and click New Pull Request.
 - Compare your branch with the main branch of this repository and submit the pull request.
 - Add a clear description of your changes and include any relevant details.
