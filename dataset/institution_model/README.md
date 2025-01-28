@@ -6,7 +6,7 @@ This document outlines the datasets compiled for three AI applications designed 
 2. **Automated Grading**: Leveraging NLP and machine learning for efficient and consistent grading of subjective and objective answers.
 3. **Plagiarism Detection**: Analyzing exam answers or assignments for originality and flagging potential plagiarism.
 
-Below are the dataset descriptions and how they can be used in achieving the project goals with their specific usage during training.
+Below are the dataset descriptions and how they can be used to achieve the project goals with their specific usage during training.
 
 ---
 
