@@ -5,7 +5,6 @@ This document outlines the datasets compiled for three AI applications designed 
 1. *Course Content Suggestions:* Assisting tutors in creating engaging course content by suggesting topics, structuring lessons, and generating quiz questions tailored to the target audience.
 2. *Content Quality Analysis:* Analysing uploaded courses for clarity, engagement, and relevance, providing actionable feedback for improvement.
 3. *Adaptive Learning Experiences:* Monitoring student's progress and dynamically adjust course content or quizzes to better suit individual learning paces.
-Benefit: Increases student satisfaction and success rates.
 
 Below are the dataset descriptions and how they can be used to achieve the project goals with their specific usage during training.
 
