@@ -1,5 +1,4 @@
-# AI Models for Institutions: Datasets Overview
-
+# AI Models for Tutor: Datasets Overview
 
 This document outlines the datasets compiled for three AI applications designed for tutor use:
 
