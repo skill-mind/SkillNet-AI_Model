@@ -44,6 +44,9 @@ Below are the dataset descriptions and how they can be used to achieve the proje
 
 ---
 
+## *3. Adaptive Learning Experiences*
+*Goal*: To enhance student learning by providing a tailored educational experience that adapts to each learner's pace and needs, improving engagement, satisfaction, and academic success.
+
 ### *Datasets and Usage*:
 1. *[Kaggle Student Engagement Dataset](https://www.kaggle.com/datasets/ziya07/student-engagement-dataset)*
     The dataset provides records of student interactions with online learning platforms, categorizing engagement levels as Inactive, Sparsely Involved, or Highly Involved. It is useful for building models that analyze student behavior, predict engagement trends, and enhance adaptive learning experiences. 
